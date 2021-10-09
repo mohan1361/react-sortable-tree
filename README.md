@@ -13,8 +13,8 @@ I have no plans to fix all the issues (which already was found by community). I 
 
 # React Sortable Tree
 
-![NPM version](https://img.shields.io/npm/v/@nosferatu500/react-sortable-tree.svg?style=flat)
-![NPM license](https://img.shields.io/npm/l/@nosferatu500/react-sortable-tree.svg?style=flat)
+![NPM version](https://img.shields.io/npm/v/mohan1361/react-sortable-tree.svg?style=flat)
+![NPM license](https://img.shields.io/npm/l/mohan1361/react-sortable-tree.svg?style=flat)
 [![NPM total downloads](https://img.shields.io/npm/dt/@nosferatu500/react-sortable-tree.svg?style=flat)](https://npmcharts.com/compare/@nosferatu500/react-sortable-tree?minimal=true)
 [![NPM monthly downloads](https://img.shields.io/npm/dm/@nosferatu500/react-sortable-tree.svg?style=flat)](https://npmcharts.com/compare/@nosferatu500/react-sortable-tree?minimal=true)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
